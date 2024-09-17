@@ -1,4 +1,4 @@
-a=10
-b=10
+a=int(input())
+b=int(input())
 sum = a+b
-print("sum:",sum)
+print(sum)
